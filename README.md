@@ -2,7 +2,7 @@
 Speech To Text To SPeech
 
 This is a project to automatically convert your voice to text to speech. This project was inspired by Zentreya's voice.
-I saw no other projects doing this so I took a shot at it. It is janky and doesn't work that great. Optimally you will need to adjust your settings so that the timeout period, and the background noise thresholds are good for your microphone and environment.
+I saw no other projects doing this so I took a shot at it. It is janky and doesn't work that great. Optimally you will need to adjust your settings so that the timeout period, and the background noise thresholds are good for your microphone and environment. I should probably make those a settings file instead of part of the source code but this project is old and I will need to re-setup my environment
 
 # Prerequisite: 
 - Install a program to re-route audio, such as VoiceMeeter
